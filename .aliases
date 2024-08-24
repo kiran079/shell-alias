@@ -1,0 +1,17 @@
+
+alias ls="ls --color=auto"
+
+# git aliases
+alias gti="git"
+alias gs="git status"
+alias gpr="git pull --rebase"
+alias glo="git log --oneline"
+alias gb="git branch"
+alias gco="git checkout -b"
+alias gpush="git push -u origin"
+alias gca="git commit --amend --no-edit"
+
+alias gds="git diff --stat HEAD~1"
+alias gbl="git branch --list"
+alias gcm="git checkout main"
+
